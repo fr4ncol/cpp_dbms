@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDatabase_core.a CMakeFiles/Database_core.dir/src/DatabaseController.cpp.o CMakeFiles/Database_core.dir/src/AuthorizedUser.cpp.o CMakeFiles/Database_core.dir/src/RootUser.cpp.o
+/usr/bin/ranlib libDatabase_core.a

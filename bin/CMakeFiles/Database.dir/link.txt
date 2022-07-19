@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Database.dir/src/main.cpp.o -o Database  libDatabase_core.a 

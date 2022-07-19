@@ -1,0 +1,4 @@
+/cppProjects/dataBaseProject/bin/CMakeFiles/rebuild_cache.dir
+/cppProjects/dataBaseProject/bin/CMakeFiles/edit_cache.dir
+/cppProjects/dataBaseProject/bin/CMakeFiles/Database_core.dir
+/cppProjects/dataBaseProject/bin/CMakeFiles/Database.dir
